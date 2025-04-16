@@ -1,2 +1,2 @@
-# sponge_example
-海绵样本
+# LLMslow
+针对大模型的资源消耗攻击
